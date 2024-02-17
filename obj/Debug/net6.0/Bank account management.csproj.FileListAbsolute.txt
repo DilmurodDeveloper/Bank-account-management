@@ -1,0 +1,15 @@
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\bin\Debug\net6.0\Bank account management.exe
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\bin\Debug\net6.0\Bank account management.deps.json
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\bin\Debug\net6.0\Bank account management.runtimeconfig.json
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\bin\Debug\net6.0\Bank account management.dll
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\bin\Debug\net6.0\Bank account management.pdb
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\Bank account management.csproj.AssemblyReference.cache
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\Bank account management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\Bank account management.AssemblyInfoInputs.cache
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\Bank account management.AssemblyInfo.cs
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\Bank account management.csproj.CoreCompileInputs.cache
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\Bank account management.dll
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\refint\Bank account management.dll
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\Bank account management.pdb
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\Bank account management.genruntimeconfig.cache
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\Bank account management\obj\Debug\net6.0\ref\Bank account management.dll
